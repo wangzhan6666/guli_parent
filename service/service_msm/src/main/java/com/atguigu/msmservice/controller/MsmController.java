@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Classname MsmController
- * @Description TODO
+ * @Description TODO    短信认证
  * @Date 2020/6/5 15:02
  * @Created by wangzhan
  */
